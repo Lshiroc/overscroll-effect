@@ -1,0 +1,23 @@
+{
+  "name": "overscroll-effect",
+  "version": "1.0.0",
+  "description": "An Overscroll Effect for Websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lshiroc/overscroll-effect.git"
+  },
+  "keywords": [
+    "overscroll",
+    "animation"
+  ],
+  "author": "Zeynal Mardanli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lshiroc/overscroll-effect/issues"
+  },
+  "homepage": "https://github.com/Lshiroc/overscroll-effect#readme"
+}
